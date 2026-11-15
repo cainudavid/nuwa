@@ -1,4 +1,1 @@
 "n_orden","fecha_orden","cliente_nombre","cliente_id","telefono","fecha_entrega","hora_entrega","tipo_entrega","direccion_entrega","observacion","metodo_pago","estado","total","abono","saldo"
-"26001","14/11/2026","Leo","0001","012545","15/11/2026","","Local","","","Efectivo","Pendiente",33,10,23
-"26002","14/11/2026","Bachi","","","15/11/2026","","Local","","","Efectivo","Pendiente",279,100,179
-"26003","14/11/2026","Zaya","","","15/11/2026","","Local","","","Efectivo","Pendiente",48,0,48

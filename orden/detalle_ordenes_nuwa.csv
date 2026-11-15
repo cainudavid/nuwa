@@ -1,11 +1,1 @@
 "n_orden","cantidad","descripcion","precio_unitario","subtotal"
-"26001",1,"Horneo pavo grande",30,30
-"26001",1,"Servicio de entrega",3,3
-"26002",1,"Horneo pavo pequeño",20,20
-"26002",1,"Horneo pavo mediano",25,25
-"26002",3,"Servicio de entrega",3,9
-"26002",5,"Horneo pavo grande",30,150
-"26002",3,"Horneo pavo mediano",25,75
-"26003",1,"Horneo pavo mediano",25,25
-"26003",1,"Horneo pavo pequeño",20,20
-"26003",1,"Servicio de entrega",3,3
