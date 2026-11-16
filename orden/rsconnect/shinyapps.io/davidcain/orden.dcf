@@ -5,8 +5,9 @@ account: davidcain
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 18446423
-bundleId: 12826316
+bundleId: 12826995
 url: https://davidcain.shinyapps.io/orden/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: catalogo_nuwa.csv|detalle_ordenes_nuwa.csv|ordenes_nuwa.csv
